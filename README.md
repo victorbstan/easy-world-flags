@@ -11,8 +11,10 @@ I have found I needed to call up flags in an intuitive and programmable way, spe
 
 ## Usage
 
-1) Simply attach the .f16 class (or any of the other size options) to the wrapper of your target flag nodes.
-2) Then add a tag that will become your flag node, either a `span`, `li`, `div`, or `i` will do. Add the `flag` class to this element, and the two letter country code name also as a class name.
+
+1. Add the style-sheet and images folder to your project in their proper place. The style-sheets assume images are available under this path: `/images/flags/flags16.png`; for example. If you need to move the assets or change the paths, feel free to do so for each CSS files you use. Include the `stylesheets/common.css` file for good luck.
+2. Simply attach the `.f16` class (or any of the other size options) to the wrapper of your target flag nodes.
+3. Then add a tag that will become your flag node, either a `span`, `li`, `div`, or `i` will do. Add the `flag` class to this element, and the two letter country code name also as a class name.
 
 Example:
 
