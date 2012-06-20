@@ -4,7 +4,7 @@ easy-world-flags
 Add world flags to your web project by a two letter country code, all html and css, no dependencies, simple.
 Available in 4 sizes: 16, 24, 32 and 48 pixels.
 
-![Sample flags usecase](../sample_flags_usecase.png)
+![Sample flags usecase](https://raw.github.com/victorbstan/easy-world-flags/master/sample_flags_usecase.png)
 
 ## History
 
