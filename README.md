@@ -30,7 +30,7 @@ You can get country codes from various utilities, for example, in Rails and Ruby
 
 Here is a more complex example within a project which already has country codes available and is providing them as a ruby hash to the view:
 
-Using the `gem 'countries'`, to extract the full country name from the provided country code. Image a hash of county codes and views as such: `{"CA"=>7385, "US"=>98, "DE"=>12, "RO"=>20, "CN"=>3, "IN"=>8, "FR"=>3, "GB"=>19, "NL"=>3, "KR"=>1, "MA"=>2, "PL"=>1, "ES"=>1, "UA"=>2, "HK"=>1, ...}`
+Using the `gem 'countries'`, to extract the full country name from the provided country code. Image a hash of county codes and views as such: `{"CA"=>7385, "US"=>98, "DE"=>12, "RO"=>20, "CN"=>3, "IN"=>8, "FR"=>3, "GB"=>19, "ES"=>1, "UA"=>2, "HK"=>1, ...}`
 
 ```
 <div class="f16">
