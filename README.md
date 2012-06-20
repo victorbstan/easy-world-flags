@@ -2,6 +2,7 @@ easy-world-flags
 ================
 
 Add world flags to your web project by a two letter country code, all html and css, no dependencies, simple.
+Available in 4 sizes: 16, 24, 32 and 48 pixels.
 
 ## History
 
