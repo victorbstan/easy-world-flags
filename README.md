@@ -26,6 +26,9 @@ Example:
 	<i class="flag ca"></i>
 </div>
 ```
+
+Check out the example.html file to see a simple example.
+
 ## Country codes... are the key
 
 You can get country codes from various utilities, for example, in Rails and Ruby there are gems which will readily assist you in extracting country codes from country names, IP numbers, Geo location information, etc. I leave it up to you how you get your country codes in there.
